@@ -1,6 +1,6 @@
 class FactCheckerApp {
     constructor() {
-        this.apiUrl = 'http://localhost:5001';
+        this.apiUrl = '/api';   // if using Vercel serverless functions
         this.initializeElements();
         this.bindEvents();
         this.initializeTheme();
@@ -348,3 +348,4 @@ class FactCheckerApp {
 document.addEventListener('DOMContentLoaded', () => {
     new FactCheckerApp();
 });
+

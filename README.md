@@ -4,7 +4,7 @@ Fact checking is most important in today's world, this tool will  check the cont
 By, Anindya Das
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ******************INSTRUCTIONS*************************
-1. Open this folder in your IDE of choice (VS Code)
+1. Open this folder in your IDE of choice
 2. Run "pip install -r requirements.txt"
 3. Go to .env file and put your Perplexity Sonar API key
 4. Start the backend "python app.py"
